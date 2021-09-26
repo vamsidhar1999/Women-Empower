@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "900906139678",
+    "project_id": "women-empower-7bcf4",
+    "storage_bucket": "women-empower-7bcf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900906139678:android:7b6dded76ee1e355e32e0f",
+        "android_client_info": {
+          "package_name": "com.example.streecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900906139678-k60mfdtm6tigq8k5oqm242v4cf04jgu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.streecare",
+            "certificate_hash": "e508aa4f0a8b03c22222a7932b1e34419a378b89"
+          }
+        },
+        {
+          "client_id": "900906139678-2edsjofr3u77i7jdsr5t9n0ttiiepps7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjKl9-R7oKzvpUvSzvFXakF-YiE8S6Ut8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900906139678-2edsjofr3u77i7jdsr5t9n0ttiiepps7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
