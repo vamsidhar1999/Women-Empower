@@ -16,7 +16,7 @@ Flutter, Dart, Firestore, DialogFlow, Google Translate API
 </pre>
 ## Team
 Team:
-Gajjala Vamshidhar(17MIS7021) /n
-Akhil Pasumarthi(17MIS7111) /n
-Gajawada Prashanth(17MIS7090) /n
+Gajjala Vamshidhar(17MIS7021) \n
+Akhil Pasumarthi(17MIS7111) \n
+Gajawada Prashanth(17MIS7090) \n
 
