@@ -14,3 +14,9 @@ Flutter, Dart, Firestore, DialogFlow, Google Translate API
 <img src="Screenshots/2.jpg" width="250"> <img src="Screenshots/3.jpg" width="250"> <img src="Screenshots/5.jpg" width="250"> <img src="Screenshots/6.jpg" width="250"> <img src="Screenshots/7.jpg" width="250"> <img src="Screenshots/8.jpg" width="250"> <img src="Screenshots/9.jpg" width="250"> <img src="Screenshots/10.jpg" width="250"> 
 
 </pre>
+## Team
+Team:
+Gajjala Vamsidhar(17MIS7021)
+Akhil Pasumarthi(17MIS7111)
+Gajawada Prashanth(17MIS7090)
+
