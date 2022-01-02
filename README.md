@@ -7,7 +7,7 @@
 Hence, We've build the flutter app in order to reduce drudgery of and/or help empower rural women
 
 ## Tech Stack 
-Flutter, Dart, Firestore, DialogFlow, Google Translate API
+Flutter, Dart, Firestore, Google Translate API
 
 ## Screenshots
 <pre>

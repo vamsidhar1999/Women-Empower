@@ -19,15 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fddd885-137d-4afc-afd0-a0b192a2a14e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    <list default="true" id="da0132bd-96f4-4dd9-b0bf-64f2b9d8ac76" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Jobs/CreateJobs.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Jobs/CreateJobs.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/Meetups/CreateMeetup.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/Meetups/CreateMeetup.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/SplashScreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/SplashScreen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/onlinestore/CreateStore.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/onlinestore/CreateStore.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +31,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ygJNljNA4uccXZyMRMGqTgUExJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -85,6 +79,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1491" height="210" key="GridCell.Tab.0.bottom" timestamp="1632669321846">
